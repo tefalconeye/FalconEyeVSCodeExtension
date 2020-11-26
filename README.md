@@ -59,7 +59,7 @@ These buttons will be appearing along with the usual Run icon that appears on th
 - **Pre-requisite**: You should open Visual Studio Code in a folder which is you working directory for FalconEye scripting. This can be done in three ways. 
 	- If you have already opened up Visual Studio Code, click on File->Open Folder on the main menu, and select the folder.
 	- Using a command prompt, navigate to the folder where you want to work, then type in code . (code followed by a space and then a dot) and hit enter.
-	- Using windows explorer, goto the scripts folder and right click, then select "Open with Code" option.
+	- Using windows explorer, go to the scripts folder and right click, then select "Open with Code" option.
 
 Open a test script. Select the device from the DUT view, and then click on "Run with FalconEye" toolbar button. This will start the script after passing all the required command line arguments automatically. This involves the DUT identifiers and other data required by the FalconEye framework to properly run a test script.
 
