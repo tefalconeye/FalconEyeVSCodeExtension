@@ -20,9 +20,9 @@ This extension will only work if you have access to a FalconEye test automation 
      <img src=images/falcon_settings.png >
 	 
 - There are three values you need to configure there. 
-	- FE_Ext_Logger_Server_Port:  this extension needs to talk to a specific port on the FalconEye execution servers to fetch the logs in real-time. This port need to be specfied in this field, after consulting with your respective FalconEye support team. Default value is 9010.
+	- FE_Ext_Logger_Server_Port:  this extension needs to talk to a specific port on the FalconEye execution servers to fetch the logs in real-time. This port need to be specified in this field, after consulting with your respective FalconEye support team. Default value is 9010.
 	
-	- FE_Ext_RTSP_Server: this extension accesses the video streams from a new service running on one of the execution servers. The IP adress and the port of this service is to be given in this field. The default port is 7010. Please contact your respective FalconEye support team for the IP address. 
+	- FE_Ext_RTSP_Server: this extension accesses the video streams from a new service running on one of the execution servers. The IP address and the port of this service is to be given in this field. The default port is 7010. Please contact your respective FalconEye support team for the IP address. 
 	
 	- FEFramework_API_Gateway: The IP address and the port at which FalconEye Framework APIs are hosted.
 
