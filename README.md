@@ -5,7 +5,7 @@ A [Visual Studio Code](https://code.visualstudio.com/) extension which helps [Fa
 <img src=images/falconeye-overall-view.png >
 
 ## Important
-This extension will only work if you have access to a FalconEye test automation system. For the features in this extension to work, you must login using your FalconEye credientials from this extension. For more information on video test automation & QoE measurement using FalconEye, contact falcon@tataelxsi.com
+This extension will only work if you have access to a FalconEye test automation system. For the features in this extension to work, you must login using your FalconEye credentials from this extension. For more information on video test automation & QoE measurement using FalconEye, contact falcon@tataelxsi.com
 
 ## How to configure the extension for first use
 
