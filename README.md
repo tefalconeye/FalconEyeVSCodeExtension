@@ -61,7 +61,7 @@ These buttons will be appearing along with the usual Run icon that appears on th
 	- Using a command prompt, navigate to the folder where you want to work, then type in code . (code followed by a space and then a dot) and hit enter.
 	- Using windows explorer, goto the scripts folder and right click, then select "Open with Code" option.
 
-Open a test script. Select the device from the DUT view <img src=images/Device_select.png> ,Then click on "Run with FalconEye" toolbar button. This will start the script after passing all the required command line arguments automatically. This involves the DUT identifiers and other data required by the FalconEye framework to properly run a test script.
+Open a test script. Select the device from the DUT view, and then click on "Run with FalconEye" toolbar button. This will start the script after passing all the required command line arguments automatically. This involves the DUT identifiers and other data required by the FalconEye framework to properly run a test script.
 
 Follow the same process to start debugging a script, however you should click on "Debug with FalconEye" instead of "Run with FalconEye" button.
 
