@@ -2,7 +2,7 @@
 
 A [Visual Studio Code](https://code.visualstudio.com/) extension which helps [FalconEye](https://tataelxsi.com/Falconeye/index.html) automation script developers to create, modify & debug test scripts in Python language. The extension features an integrated DUT View, a real-time test execution log view and toolbar buttons for  running scripts under FalconEye framework. 
 
-     <img src=images/falconeye-overall-view.png >
+<img src=images/falconeye-overall-view.png >
 
 ## Important
 This extension will only work if you have access to a FalconEye test automation system. For the features in this extension to work, you must login using your FalconEye credientials from this extension. For more information on video test automation & QoE measurement using FalconEye, contact falcon@tataelxsi.com
