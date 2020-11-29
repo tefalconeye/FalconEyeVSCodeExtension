@@ -67,4 +67,9 @@ Follow the same process to start debugging a script, however you should click on
 
 While a script is under the debugger, you will be able to use breakpoints and other standard debugger features such as step through, step inside, step outside and so on. Read python extension's readme section for getting yourself familiarized on how to use debugging features in Visual Studio Code. 
 
+## Code Snippet Feature
+
+	- You can also add auto generated code to your newly created script by just typing Platform type(iOS/android/STB) in the text editor.
+	- API snippets can be added by just typing API name in the text editor.For Example if you need to add QuickCapture API snippet ,Just type (quickcapture).The UI will 		  provide you suggestions and you can add from there.
+
 Happy scripting!
