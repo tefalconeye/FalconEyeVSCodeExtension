@@ -69,7 +69,9 @@ While a script is under the debugger, you will be able to use breakpoints and ot
 
 ## Code Snippet Feature
 
-	- You can also add auto generated code to your newly created script by just typing Platform type(iOS/android/STB) in the text editor.
-	- API snippets can be added by just typing API name in the text editor.For Example if you need to add QuickCapture API snippet ,Just type (quickcapture).The UI will 		  provide you suggestions and you can add from there.
+  - You can also add auto generated code to your newly created script by just typing Platform type(iOS/android/STB) in the text editor.
+  - API snippets can be added by just typing API name in the text editor.For Example if you need to add QuickCapture API snippet,Just type (quickcapture).
+    The UI wil provide you suggestions and you can add from there.
+  
 
-Happy scripting!
+   Happy scripting!
