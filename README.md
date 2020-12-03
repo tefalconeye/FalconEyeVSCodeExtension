@@ -70,7 +70,9 @@ While a script is under the debugger, you will be able to use breakpoints and ot
 ## Code Snippets for FalconEye Test APIs
 
   - When you want to start a new test script, create a new python file and simply type in the platform name (iOS/Android/STB) in the empty editor and it will auto-generate all the lines of code required for the test script.
+   
   - Test API snippets can be added by just typing the API name in the text editor. For example, if you need to add QuickCapture API snippet, just start typing 'quickcapture'. As you type, the matching API names will be listed in an intellisense popup, and the selected API's calling structure will also be displayed as a sub-menu to the Intellisense popup. You can select the required API and press Enter - this will add the code snippet for that API into your test script.
-  
+
+    <img src=images/falconeye-ext-snippets.gif>
 
 Happy scripting!
