@@ -77,4 +77,7 @@ While a script is under the debugger, you will be able to use breakpoints and ot
 
     <img src=images/falconeye-ext-snippets.gif>
 
+## Limitations
+At present, this extension doesn't allow users to execute or debug FalconEye test scripts from environments other than Windows. 
+
 Happy scripting!
