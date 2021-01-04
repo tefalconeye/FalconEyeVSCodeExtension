@@ -80,6 +80,6 @@ While a script is under the debugger, you will be able to use breakpoints and ot
 ## Limitations
 - At present, this extension doesn't allow users to execute or debug FalconEye test scripts from environments other than Windows.
 
-- Unable to view video of Devices connected to TBS.
+- Currently, video streams from TBS Encoders are not supported.
 
 Happy scripting!
