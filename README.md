@@ -1,6 +1,6 @@
 # FalconEye Extension for Visual Studio Code
 
-A [Visual Studio Code](https://code.visualstudio.com/) extension which helps [FalconEye](https://tataelxsi.com/Falconeye/index.html) automation script developers create, modify & debug test scripts in Python. This extension features an integrated DUT View, a real-time test execution log view, real-time videos of DUTs, and toolbar buttons for running scripts under the FalconEye framework. 
+A [Visual Studio Code](https://code.visualstudio.com/) extension which helps [FalconEye](https://tataelxsi.com/Falconeye/index.html) automation script developers create, modify & debug test scripts in Python. This extension features an integrated DUT View, a real-time test execution log view, real-time videos of DUTs, and toolbar buttons for running scripts under the FalconEye framework.Supported VSCode version v1.55.2.
 
 <img src=images/falconeye-overall-view.png >
 
@@ -48,11 +48,11 @@ To open FalconEye execution logs view, click on the “View” menu of Visual St
 
 <img src=images/falconeye-log-view.png>
 
-### FalconEye Run/Debug Buttons
+### FalconEye Run/Debug Option
 
-These buttons will appear along with the usual Run icon that appears on the top toolbar when you open up a Python file in Visual Studio Code editor. These are the buttons a user should use to start running or debugging a FalconEye test script. The regular Run button should not be used, as it will start the Python script without the necessary command-line arguments for the test script.
+These Options will appear along with the usual Run icon that appears on the top toolbar when you open up a Python file in Visual Studio Code editor. These are the options a user should use to start running or debugging a FalconEye test script. The regular "Run Python File in Terminal" option should not be used, as it will start the Python script without the necessary command-line arguments for the test script.
 
-<img src=images/falconeye-debug-buttons.png>
+<img src=https://raw.githubusercontent.com/tefalconeye/FalconEyeVSCodeExtension/main/images/FalconEyeRunView.png>
 
 ## How to run or debug a FalconEye test script in Visual Studio Code
 
