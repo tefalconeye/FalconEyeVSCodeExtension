@@ -52,7 +52,7 @@ To open FalconEye execution logs view, click on the “View” menu of Visual St
 
 These Options will appear along with the usual Run icon that appears on the top toolbar when you open up a Python file in Visual Studio Code editor. These are the options a user should use to start running or debugging a FalconEye test script. The regular "Run Python File in Terminal" option should not be used, as it will start the Python script without the necessary command-line arguments for the test script.
 
-<img src=https://raw.githubusercontent.com/tefalconeye/FalconEyeVSCodeExtension/main/images/FalconEyeRunView.png>
+<img src=https://raw.githubusercontent.com/tefalconeye/FalconEyeVSCodeExtension/main/images/falconeye-run-option.png>
 
 ## How to run or debug a FalconEye test script in Visual Studio Code
 
