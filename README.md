@@ -54,6 +54,11 @@ These Options will appear along with the usual Run icon that appears on the top 
 
 <img src=https://raw.githubusercontent.com/tefalconeye/FalconEyeVSCodeExtension/main/images/falconeye-run-option.png>
 
+### Android Mobile Device SoftTouch Control
+User is now capable of remotly accessing android mobile device from DUT video panel.User can control actions such as swipe,tap,home,volume up,volume down,power,orientation change and rebooting device.
+
+<img src=https://raw.githubusercontent.com/tefalconeye/FalconEyeVSCodeExtension/main/images/softremote.gif>
+
 ## How to run or debug a FalconEye test script in Visual Studio Code
 
 - **Pre-requisite**: You should open the Visual Studio Code in a folder that you use for FalconEye scripting. This can be done in three ways. 
