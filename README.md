@@ -72,6 +72,10 @@ Follow the same process to start debugging a script; however, you should click o
 
 While a script is under the debugger, you will be able to use breakpoints and other standard debugger features such as step through, step inside, step outside, and so on. Read python extension’s readme section for getting yourself familiarized with how to use debugging features in Visual Studio Code.
 
+FalconEye supports python versions -python 2.7 and python 3.7. Appropriate python environment can be selected from the " Select Interpreter" option as shown below. You can either select an environment required for execution shown in list or manually provide the python executable path by selecting "Enter interpreter path..."
+
+<img src=https://raw.githubusercontent.com/tefalconeye/FalconEyeVSCodeExtension/main/images/python-interpreter.gif>
+
 ## Code Snippets for FalconEye Test APIs
 
   - When you want to start a new test script, create a new python file and simply type in the platform name (iOS/Android/STB) in the empty editor and it will auto-generate all the lines of code required for the test script.
