@@ -55,7 +55,7 @@ These Options will appear along with the usual Run icon that appears on the top 
 <img src=https://raw.githubusercontent.com/tefalconeye/FalconEyeVSCodeExtension/main/images/falconeye-run-option.png>
 
 ### Android Mobile Device Soft Touch Control
-User is now capable of remotly accessing android mobile device from DUT video panel.User can control actions such as swipe,tap,home,volume up,volume down,power,orientation change and rebooting device.
+User is now capable of remotly accessing android mobile device from DUT video panel.User can control actions such as swipe,tap,home,volume up,volume down,power,orientation change and rebooting device.Functionality such as change in orientation are specific to device or application.
 
 <img src=https://raw.githubusercontent.com/tefalconeye/FalconEyeVSCodeExtension/main/images/androidremote.gif>
 
