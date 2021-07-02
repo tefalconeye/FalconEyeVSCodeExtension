@@ -62,7 +62,7 @@ User is now capable of remotly accessing android mobile device from DUT video pa
 ### iOS Mobile Device Soft Touch Control
 User is now capable of remotly accessing iOS mobile/iPad device from DUT video panel.User can control actions such as swipe,tap,home,volume up,volume down,power,orientation change and rebooting device.Functionality such as change in orientation are specific to device or application.Please make sure device is placed under proper camera calibration.
 
-<img src=https://raw.githubusercontent.com/tefalconeye/FalconEyeVSCodeExtension/main/images/androidremote.gif>
+<img src=https://raw.githubusercontent.com/tefalconeye/FalconEyeVSCodeExtension/main/images/iosremote.gif>
 
 ## How to run or debug a FalconEye test script in Visual Studio Code
 
