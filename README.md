@@ -24,7 +24,11 @@ This extension will only work if you have access to the FalconEye test automatio
 	
 	- FE_Ext_RTSP_Server: this extension accesses the video streams from a new service running on one of the execution servers. The IP address and the port of this service are to be given in this field. The default port is 7010. Please contact your respective FalconEye support team for the IP address. 
 	
-	- FEFramework_API_Gateway: The IP address and the port at which FalconEye Framework APIs are hosted.
+	- FEFramework_API_Gateway: The IP address and the port at which FalconEye Framework APIs are hosted.For version greater the v0.2.0 , update host name instead of IP address (example: hostname:port)
+
+  	- Disable Proxy: From Visual studio settings ,search for "http" and set configuration as shown below.
+  
+  <img src=images/proxy.PNG >
 
 ## Log-in to FalconEye
 
